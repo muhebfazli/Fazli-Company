@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.muhebfazli.com/sitemaps.xml
+Sitemap: https://fazlicompany.netlify.app/sitemap.xml
 
