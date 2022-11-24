@@ -414,8 +414,8 @@ color: white;
 
 
 /*socoal*/
-<style>
-body {margin:0;height:2000px;}
+
+body {margin:0;height: 800px;}
 
 .icon-bar {
 position: absolute;
@@ -797,7 +797,7 @@ position: relative;
 .h_iframe .ratio {
 display: block;
 width: 100%;
-height: ;
+
 }
 
 .h_iframe iframe {
@@ -805,7 +805,7 @@ position: absolute;
 top: 0;
 left: 0;
 width: 100%;
-height: 100%%;
+height: 100%;
 }
 
 
@@ -882,15 +882,10 @@ button:hover{
 color: gray;
 }
 #cust-care{
-background: 
+
 box-shadow: 0 0 5px black;
 }
-#write{
 
-}
-#sales{
-
-}
 a{
 font-size: 16px;
 }
@@ -1083,17 +1078,15 @@ opacity:1;
 }
 
 
-
-
 @media screen and (max-width: 600px) {
 .topnav a:not(:first-child), .dropdown .dropbtn {
 display: none;
-}
+
 .topnav a.icon {
 float: right;
 display: block;
 }
-}
+
 
 @media screen and (max-width: 600px) {
 .topnav.responsive {position: relative;}
@@ -1185,7 +1178,7 @@ padding: 0;
 }
 }
 }
-}
+
 
 /* Turn off parallax scrolling for tablets and phones */
 @media only screen and (max-device-width: 1600px) {
@@ -1194,3 +1187,11 @@ background-attachment: scroll;
 min-height: 400px;
 }
 }
+
+
+
+@media only screen and (min-device-width: 1536px) and (max-device-width: 2048px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 2) {
+
+
+  
+  }
