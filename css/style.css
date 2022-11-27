@@ -378,7 +378,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .hero-image {
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img33d3.webP" );
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://fazlicompany.netlify.app/logo/img33d3.webP" );
 height: 50%;
 background-position: center;
 background-repeat: no-repeat;
@@ -1069,13 +1069,6 @@ opacity:1;
 }
 }
 
-@-ms-keyframes fadeIn {
-0% {
-opacity:0;
-}
-100% {
-opacity:1;
-}
 
 
 @media screen and (max-width: 600px) {
@@ -1193,5 +1186,5 @@ min-height: 400px;
 @media only screen and (min-device-width: 1536px) and (max-device-width: 2048px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 2) {
 
 
-  
+  }
   }
