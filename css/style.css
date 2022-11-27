@@ -1180,11 +1180,4 @@ background-attachment: scroll;
 min-height: 400px;
 }
 }
-
-
-
-@media only screen and (min-device-width: 1536px) and (max-device-width: 2048px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 2) {
-
-
-  }
-  }
+}
